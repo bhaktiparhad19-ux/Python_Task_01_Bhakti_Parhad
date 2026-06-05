@@ -1,23 +1,93 @@
-# Python Task 01
+# Python Task 01 - System Information & Basic Automation
 
-## Programs
+## Internship
 
-1. system_info.py
-Displays personal information and current date/time.
+White Band Associates Summer Internship 2026
 
-2. user_input.py
-Takes user input and displays a summary.
+## Objective
 
-3. calculator.py
-Performs basic arithmetic operations.
+The objective of this task is to learn Python programming fundamentals, user input handling, arithmetic operations, Python modules, and basic automation techniques.
 
-4. challenge.py
-Displays system information.
+## Project Structure
 
-## Learning Outcome
+### system_info.py
 
-Learned:
-- Variables
-- Input and Output
-- Arithmetic Operations
-- Python Modules
+Displays:
+
+* Name
+* Branch
+* Internship Name
+* Current Date and Time
+
+### user_input.py
+
+Accepts user input for:
+
+* Name
+* Age
+* Favorite Technology
+
+Displays a formatted summary based on the entered information.
+
+### calculator.py
+
+A menu-driven calculator that performs:
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+
+Includes input validation for division by zero.
+
+### challenge.py
+
+Displays system information such as:
+
+* Operating System Name
+* Current Username
+* Current Working Directory
+* Python Version
+
+## Screenshots
+
+This repository includes screenshots of:
+
+* Python installation verification
+* System Information Program Output
+* User Input Program Output
+* Calculator Program Output
+* System Information Challenge Output
+
+## Technologies Used
+
+* Python 3.x
+* Visual Studio Code
+* GitHub
+
+## Concepts Learned
+
+* Variables and Data Types
+* Input and Output Functions
+* Arithmetic Operators
+* Conditional Statements
+* Python Modules
+* Basic Automation
+* System Information Retrieval
+
+## Repository Contents
+
+```text
+Python_Task_01
+│
+├── system_info.py
+├── user_input.py
+├── calculator.py
+├── challenge.py
+├── README.md
+└── Screenshots/
+```
+
+## Conclusion
+
+This task provided hands-on experience with Python programming fundamentals and helped build a foundation for future cybersecurity automation and scripting tasks.
