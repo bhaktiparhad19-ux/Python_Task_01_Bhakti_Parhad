@@ -78,13 +78,13 @@ This repository includes screenshots of:
 ## Repository Contents
 
 ```text
-Python_Task_01
+Python_Task_01_Bhakti_Parhad
 │
 ├── system_info.py
 ├── user_input.py
 ├── calculator.py
 ├── challenge.py
-├── README.md
+├── learning_notes.txt
 └── Screenshots/
 ```
 
